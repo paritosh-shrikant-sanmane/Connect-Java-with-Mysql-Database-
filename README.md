@@ -12,3 +12,7 @@ how to connect Java application with MySQL database, inserts a row to a table an
 3. Create statement 
 4. Execute queries
 5. Close connection 
+
+if you still need help. don't shy to ask, I'll happy to help you.
+
+Email: paritoshsanmane123@gmail.com
