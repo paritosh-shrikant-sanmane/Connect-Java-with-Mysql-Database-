@@ -1,4 +1,4 @@
-# Connect-Java-with-Mysql-Database-
+# Connect-Java-with-Mysql-Database
 Connect Java with Mysql Database | Java JDBC | Java Database connectivity | JDBC MySql | 
 
 
